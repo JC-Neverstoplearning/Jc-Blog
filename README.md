@@ -1,2 +1,2 @@
 # Jc-Blog
-My personal blog
+My personal blog.
